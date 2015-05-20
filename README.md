@@ -1,6 +1,6 @@
 ## LogEntries Token
 
-To generate a LogEntries token for CoreOS, log into your LogEntries dashbaord and add a "Manual" log.
+To generate a LogEntries token for CoreOS, log into your LogEntries dashboard and add a "Manual" log.
 
 ![LogEntries Token](https://photos-1.dropbox.com/t/2/AAB_TqTvR68K7HHEc8RXKYJMakBaYC0bQUZ565Ap_QkZyg/12/593441/png/1024x768/3/1432098000/0/2/Screenshot%202015-05-19%2021.23.47.png/CKGcJCABIAIgAyAEIAUgBigBKAI/cVo-4jW23DAeV3wbNNm8y4T0qp8hQdrgf5NTdWdj5C4)
 
