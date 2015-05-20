@@ -14,6 +14,20 @@ Click "Create Log Token" at the bottom of the page, and your LogEntries Token wi
 
 If you would like to use this example code directly, you'll have to setup your keys.
 
-#### user-data
+### user-data
 
 Edit the `./user-data` and replace the second occurrance of `LOGENTRIES_TOKEN` with your LogEntries token.
+
+## Requirements
+
+[Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) are both required to run this example.
+
+## Running
+
+Navigate to your `logentries-coreos-example` folder in a terminal and type the following:
+
+`vagrant up`
+
+What that will do is start your CoreOS Vagrant instance. If you've configured LogEntries correctly, you should start seeing something like this in your LogEntries dashboard:
+
+![LogEntries Logs](https://photos-4.dropbox.com/t/2/AAAcn025H8rzu7-eU2rYbaZUm_rJW1d5OcJmwdzTamkBag/12/593441/png/1024x768/2/_/0/4/Screenshot%202015-05-19%2020.35.05.png/CKGcJCABIAIgAyAEIAUgBigBKAI/in97z1kasriw058/AAARTAaFoJnJjjFxMqfjzdhKa/Screenshot%202015-05-19%2020.35.05.png)
